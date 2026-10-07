@@ -29,4 +29,4 @@ This project documents my first Security Information and Event Management (SIEM)
 See the full project writeup in this repository.
  
 ## Author
-Gabrielle Lankester
+Cybergirl Gabby 
