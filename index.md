@@ -1,3 +1,4 @@
+# My Very First Siem Deployment
 Moving into cybersecurity wasn't just a career decision for me. It was personal. Coming from a healthcare background, I’ve seen firsthand how catastrophic data breaches can be for organizations and individuals. After witnessing those impacts and navigating a personal hacking incident, I decided to take control and learn how to defend systems myself.
 
 Starting out, typing commands into a terminal felt incredibly daunting. But as I dove into this first SIEM deployment project, something shifted. With practice, using the command line became second nature, and navigating through various software systems felt far less intimidating. In fact, it has completely changed how I understand and interact with my own computer on a daily basis. If you’re just starting out in security, stick with it - you can absolutely get through this!
